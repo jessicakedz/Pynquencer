@@ -23,6 +23,7 @@ Example sound files are in the \output_npy folder
 The keypad columns wires are on the low 4 bits of the Pynq Arduino and the row wires are on the bits 4-7. The backlight is controlled via SPI on the Arduino SPI port. 
 
 Contributers on this project are:
+
 *Jessica Kedziora: system design, hardware build, encoder and OLED spi interface, interface, Keypad design, ipython microblaze code, delta-sigma modulation in matlab, demo sequence. 
 
 *David Pottinger: OLED display code, Python run and program loops, ipython microblaze GPIO code
