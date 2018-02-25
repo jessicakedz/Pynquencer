@@ -24,7 +24,9 @@ The keypad columns wires are on the low 4 bits of the Pynq Arduino and the row w
 
 Contributers on this project are:
 *Jessica Kedziora: system design, hardware build, encoder and OLED spi interface, interface, Keypad design, ipython microblaze code, delta-sigma modulation in matlab, demo sequence. 
+
 *David Pottinger: OLED display code, Python run and program loops, ipython microblaze GPIO code
+
 *Shandon Campbell: Sound files, sound file conversion and assembly, misc taks on integreation, demo sequence.
 
 Want cool buttons? 
